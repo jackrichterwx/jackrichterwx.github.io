@@ -23,9 +23,9 @@ repository               : "jackrichterwx/jackrichterwx.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "richterjack_headshot_clasp.jpg"
   name             : "Jack Richter, PhD Candidate"
-  pronouns         : "he/him"  
+  pronouns         : #"he/him"  
   bio              : "Snowfall, ice microphysics, precipitation processes, in situ observations, remote sensing"
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan"
@@ -84,12 +84,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  datasets:
+    title: 'Datasets'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
