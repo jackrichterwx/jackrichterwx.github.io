@@ -7,23 +7,21 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<html>
+<body>
+  <p><b>Richter, J.</b>, Pettersen, C., McMurdie, L., Bailey, A., Shates, J. Ice Microphysics in
+    Stratiform and Convective Precipitation Regions during the IMPACTS Field Campaign, <i>Journal
+    of Applied Meteorology and Climatology</i>, (in prep)</p>
+
+  <p>Wagner, T., <b>Richter, J.</b>, Mateling, M., Pettersen, C., Kulie, M. (2026). The Synoptic,
+    Microphysical, and Radar Characteristics of Upper Great Lakes Snow Events, <i>Journal of
+    Geophysical Research-Atmospheres</i>, <a href="https://doi.org/10.1029/2026JD046349">https://doi.org/10.1029/2026JD046349.</a></p>
+
+  <p><b>Richter, J.</b>, Pettersen, C., Moisseev, D., Shates, J., King, F. (2025). Macro- and Microphysical
+    Properties of Atmospheric River Snowfall: Results from Two Instrument Sites, <i>Journal of
+    Applied Meteorology and Climatology</i>, <a href="https://doi.org/10.1175/JAMC-D-24-0220.1">https://doi.org/10.1175/JAMC-D-24-0220.1.</a></p>
+
+  <p><b>Richter, J.</b>, Pettersen, C. (2024). Marquette, Michigan Snowfall Instrument Site: Micro Rain
+    Radar Dataset [Data set], <i>University of Michigan - Deep Blue Data</i>. <a href="https://doi.org/10.7302/4qdq-8184">https://doi.org/10.7302/4qdq-8184.</a></p>
+</body>
+</html>
