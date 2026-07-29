@@ -11,7 +11,7 @@ I am a 4th year PhD candidate in the Department of Climate and Space Sciences an
 
 Education
 ======
-**University of Michigan**
+**University of Michigan**  
 Ph.D. Climate and Space Sciences and Engineering (expected 2027)  
 M.S. Climate and Space Sciences and Engineering (2025)  
 
@@ -28,7 +28,7 @@ Using ground-based remote sensing and in situ observations at instrumentation si
  
 ![Composite PSD histograms AR vs NoAR snowfall](https://jackrichterwx.github.io/files/fig8.png)  
 
-**Stratiform and Convective Ice Microphysics**
+**Stratiform and Convective Ice Microphysics**  
 We applied a convectivity algorithm to airborne radar observations from the [IMPACTS field campaign](https://espo.nasa.gov/impacts) to classify flight segments as stratiform or convective. We then characterized the radar and in situ probe observations across all coordinated flight legs to determine how ice microphysics during winter storms are different in stratiform and convective precipitation regions. We found that convective regions result in higher Doppler velocity variability, 75% more ice particles, and 40% more liquid water content than stratiform regions. These results indicate that convective regions are characteristic of riming and secondary ice production whereas stratiform regions are characteristic of depositional growth.
 
 ![DFR vs DFR histograms, stratiform vs convective](https://jackrichterwx.github.io/files/DFR_vs_DFR_HIST_MultiPanel.png) 
