@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year PhD candidate in the Department of Climate and Space Sciences and Engineering at the University of Michigan, working with Professor Claire Pettersen in the [Cold Precipitation Processes Group](https://pettersen.engin.umich.edu/). My research is focused on investigating links between atmospheric conditions and snow/ice microphysics using remote sensing and in situ observations from ground-based, airborne, and spaceborne platforms. 
+I am a 5th year PhD candidate in the Department of Climate and Space Sciences and Engineering at the University of Michigan, working with Professor Claire Pettersen in the [Cold Precipitation Processes Group](https://pettersen.engin.umich.edu/). My research is focused on investigating links between atmospheric conditions and snow/ice microphysics using remote sensing and in situ observations from ground-based, airborne, and spaceborne platforms. 
 
 Education
 ======
