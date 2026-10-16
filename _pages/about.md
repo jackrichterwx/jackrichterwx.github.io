@@ -19,7 +19,7 @@ M.S. Climate and Space Sciences and Engineering (2025)
 B.S. Atmospheric and Oceanic Sciences (2022)  
 Cert. Computer Sciences and Mathematics (2022)  
 
-[Download my CV](https://jackrichterwx.github.io/files/Richter_CV_october2026.pdf)!
+[Download my CV](https://jackrichterwx.github.io/files/richter_CV_october2026.pdf)!
 
 Projects
 ======
